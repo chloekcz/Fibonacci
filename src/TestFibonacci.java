@@ -31,7 +31,7 @@ public class TestFibonacci {
 		
 		
 		/**
-		 * Condition of value
+		 * Condition of values
 		 */
 		
 		if (a > 0) {
